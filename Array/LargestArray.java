@@ -1,8 +1,10 @@
+
 package Array;
+import java.util.*;
 
 public class LargestArray {
     public static int  LargestNumber(int num[]){
-          int Largest = num[0];
+          int Largest = Integer.MIN_VALUE;
 
           for(int i  =1; i<num.length; i++){
 
