@@ -33,7 +33,7 @@ public class Reverse {
        Node newNode = new Node(data);
        size++;
        if(head == null){
-         head= tail =null;
+         head= tail =newNode;
          return;
        }
 

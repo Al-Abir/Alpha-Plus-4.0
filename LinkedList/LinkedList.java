@@ -39,7 +39,7 @@ public class LinkedList {
         size++;
         if (head == null) {
   
-            head = tail = null;
+            head = tail = newNode;
             return;
         }
    
