@@ -1,0 +1,168 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Buy_and_Sell",
+            "request": "launch",
+            "mainClass": "Array.Buy_and_Sell",
+            "projectName": "Alpha Plus 4.0_e91a0f57"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "BinaySearch",
+            "request": "launch",
+            "mainClass": "Array.BinaySearch",
+            "projectName": "Alpha Plus 4.0_e91a0f57"
+        },
+        {
+            "type": "java",
+            "name": "LargestArray",
+            "request": "launch",
+            "mainClass": "Array.LargestArray",
+            "projectName": "Alpha Plus 4.0_e91a0f57"
+        },
+        {
+            "type": "java",
+            "name": "Linear_Search",
+            "request": "launch",
+            "mainClass": "Array.Linear_Search",
+            "projectName": "Alpha Plus 4.0_e91a0f57"
+        },
+        {
+            "type": "java",
+            "name": "Pair_In_Array",
+            "request": "launch",
+            "mainClass": "Array.Pair_In_Array",
+            "projectName": "Alpha Plus 4.0_e91a0f57"
+        },
+        {
+            "type": "java",
+            "name": "Print_Subarray",
+            "request": "launch",
+            "mainClass": "Array.Print_Subarray",
+            "projectName": "Alpha Plus 4.0_e91a0f57"
+        },
+        {
+            "type": "java",
+            "name": "Trapping_RainWater",
+            "request": "launch",
+            "mainClass": "Array.Trapping_RainWater",
+            "projectName": "Alpha Plus 4.0_e91a0f57"
+        },
+        {
+            "type": "java",
+            "name": "LinkedList",
+            "request": "launch",
+            "mainClass": "LinkedList.LinkedList",
+            "projectName": "Alpha Plus 4.0_e91a0f57"
+        },
+        {
+            "type": "java",
+            "name": "Palindrome",
+            "request": "launch",
+            "mainClass": "LinkedList.Palindrome",
+            "projectName": "Alpha Plus 4.0_e91a0f57"
+        },
+        {
+            "type": "java",
+            "name": "Recursive",
+            "request": "launch",
+            "mainClass": "LinkedList.Recursive",
+            "projectName": "Alpha Plus 4.0_e91a0f57"
+        },
+        {
+            "type": "java",
+            "name": "Remove_Nth_Node",
+            "request": "launch",
+            "mainClass": "LinkedList.Remove_Nth_Node",
+            "projectName": "Alpha Plus 4.0_e91a0f57"
+        },
+        {
+            "type": "java",
+            "name": "Reverse",
+            "request": "launch",
+            "mainClass": "LinkedList.Reverse",
+            "projectName": "Alpha Plus 4.0_e91a0f57"
+        },
+        {
+            "type": "java",
+            "name": "ButterFly",
+            "request": "launch",
+            "mainClass": "Pattern.ButterFly",
+            "projectName": "Alpha Plus 4.0_e91a0f57"
+        },
+        {
+            "type": "java",
+            "name": "Diamond",
+            "request": "launch",
+            "mainClass": "Pattern.Diamond",
+            "projectName": "Alpha Plus 4.0_e91a0f57"
+        },
+        {
+            "type": "java",
+            "name": "Hollow",
+            "request": "launch",
+            "mainClass": "Pattern.Hollow",
+            "projectName": "Alpha Plus 4.0_e91a0f57"
+        },
+        {
+            "type": "java",
+            "name": "Rotated_Inverted",
+            "request": "launch",
+            "mainClass": "Pattern.Rotated_Inverted",
+            "projectName": "Alpha Plus 4.0_e91a0f57"
+        },
+        {
+            "type": "java",
+            "name": "Solid_Rombus",
+            "request": "launch",
+            "mainClass": "Pattern.Solid_Rombus",
+            "projectName": "Alpha Plus 4.0_e91a0f57"
+        },
+        {
+            "type": "java",
+            "name": "inverted",
+            "request": "launch",
+            "mainClass": "Pattern.inverted",
+            "projectName": "Alpha Plus 4.0_e91a0f57"
+        },
+        {
+            "type": "java",
+            "name": "BacktrackArray",
+            "request": "launch",
+            "mainClass": "Recursion.BacktrackArray",
+            "projectName": "Alpha Plus 4.0_e91a0f57"
+        },
+        {
+            "type": "java",
+            "name": "Chess",
+            "request": "launch",
+            "mainClass": "Recursion.Chess",
+            "projectName": "Alpha Plus 4.0_e91a0f57"
+        },
+        {
+            "type": "java",
+            "name": "Permutation",
+            "request": "launch",
+            "mainClass": "Recursion.Permutation",
+            "projectName": "Alpha Plus 4.0_e91a0f57"
+        },
+        {
+            "type": "java",
+            "name": "Subset",
+            "request": "launch",
+            "mainClass": "Recursion.Subset",
+            "projectName": "Alpha Plus 4.0_e91a0f57"
+        }
+    ]
+}

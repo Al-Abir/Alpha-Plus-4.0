@@ -35,7 +35,7 @@ public class Palindrome {
         tail = newNode;
     }
 
-    public static Node find_mid(Node head) {
+    public  Node find_mid(Node head) {
         Node slow = head;
         Node fast = head;
         while (fast != null && fast.next != null) {
