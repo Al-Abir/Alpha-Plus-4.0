@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Roated_Sorted",
+            "request": "launch",
+            "mainClass": "Array.Roated_Sorted",
+            "projectName": "Alpha Plus 4.0_e91a0f57"
+        },
+        {
+            "type": "java",
             "name": "Buy_and_Sell",
             "request": "launch",
             "mainClass": "Array.Buy_and_Sell",
