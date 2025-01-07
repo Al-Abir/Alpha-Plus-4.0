@@ -26,6 +26,41 @@ public class BuildTree {
 
           return newNode;
         }
+        // pre-order
+        public static void Preorder(Node root){
+
+            // 
+            if(root==null){
+                return ;
+            }
+
+            System.out.print(root.data + " ");
+            Preorder(root.left);
+            Preorder(root.right);
+        }
+
+        //In order 
+
+        public static void InOrder(Node root){
+            // base case
+            if(root==null){
+                return;
+            }
+            InOrder(root.left);
+            System.out.print(root.data + " ");
+            InOrder(root.right);
+        }
+
+        public static void PostOrder(Node root){
+            // base case 
+            if(root== null){
+                return;
+            }
+
+            PostOrder(root.left);
+            PostOrder(root.right);
+            System.out.print(root.data + " ");
+        }
     
     }
     public static void main(String[] args) {
@@ -34,5 +69,12 @@ public class BuildTree {
         
         Node root =  BinaryTree.buildTeeNode(nodes);
         System.out.println(root.data);
+
+        BinaryTree.Preorder(root);
+        System.out.println();
+        BinaryTree.InOrder(root);
+        System.out.println();
+        BinaryTree.PostOrder(root);
+
     }
 }
