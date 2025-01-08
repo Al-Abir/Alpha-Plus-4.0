@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "valid_Mirror",
+            "request": "launch",
+            "mainClass": "BST.valid_Mirror",
+            "projectName": "Alpha Plus 4.0_e91a0f57"
+        },
+        {
+            "type": "java",
             "name": "Print_range",
             "request": "launch",
             "mainClass": "BST.Print_range",
