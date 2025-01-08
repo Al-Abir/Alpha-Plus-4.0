@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Delete",
+            "request": "launch",
+            "mainClass": "BST.Delete",
+            "projectName": "Alpha Plus 4.0_e91a0f57"
+        },
+        {
+            "type": "java",
+            "name": "Search",
+            "request": "launch",
+            "mainClass": "BST.Search",
+            "projectName": "Alpha Plus 4.0_e91a0f57"
+        },
+        {
+            "type": "java",
             "name": "CountofNode",
             "request": "launch",
             "mainClass": "Tree.CountofNode",
