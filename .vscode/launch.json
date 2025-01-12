@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Insert",
+            "request": "launch",
+            "mainClass": "PQ_Heap.Insert",
+            "projectName": "Alpha Plus 4.0_e91a0f57"
+        },
+        {
+            "type": "java",
             "name": "ValidMirror",
             "request": "launch",
             "mainClass": "BST.ValidMirror",
