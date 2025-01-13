@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Near_Car",
+            "request": "launch",
+            "mainClass": "PQ_Heap.Near_Car",
+            "projectName": "Alpha Plus 4.0_e91a0f57"
+        },
+        {
+            "type": "java",
             "name": "Insert",
             "request": "launch",
             "mainClass": "PQ_Heap.Insert",
