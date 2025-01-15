@@ -6,6 +6,48 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Subarray_Sum_K",
+            "request": "launch",
+            "mainClass": "HashMap.Subarray_Sum_K",
+            "projectName": "Alpha Plus 4.0_e91a0f57"
+        },
+        {
+            "type": "java",
+            "name": "Largest_sum",
+            "request": "launch",
+            "mainClass": "HashMap.Largest_sum",
+            "projectName": "Alpha Plus 4.0_e91a0f57"
+        },
+        {
+            "type": "java",
+            "name": "Tickets",
+            "request": "launch",
+            "mainClass": "HashMap.Tickets",
+            "projectName": "Alpha Plus 4.0_e91a0f57"
+        },
+        {
+            "type": "java",
+            "name": "Union_Intersection",
+            "request": "launch",
+            "mainClass": "HashSet.Union_Intersection",
+            "projectName": "Alpha Plus 4.0_e91a0f57"
+        },
+        {
+            "type": "java",
+            "name": "Unique",
+            "request": "launch",
+            "mainClass": "HashSet.Unique",
+            "projectName": "Alpha Plus 4.0_e91a0f57"
+        },
+        {
+            "type": "java",
+            "name": "Anagram",
+            "request": "launch",
+            "mainClass": "HashMap.Anagram",
+            "projectName": "Alpha Plus 4.0_e91a0f57"
+        },
+        {
+            "type": "java",
             "name": "Mejority_element",
             "request": "launch",
             "mainClass": "HashMap.Mejority_element",
