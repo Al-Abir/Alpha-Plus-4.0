@@ -42,8 +42,22 @@ public class Insert {
         return curr.eow==true;
     }
 
+    public static boolean wordBreak(String key){
+        if(key.length()==0){
+            return true;
+        }
+        for(int i =1; i<=key.length(); i++)
+        {
+            if(search(key.substring(0,i))&& wordBreak(key.substring(i))){
+                return true;
+            }
+        
+        }
+        return false;
+    }
+
     public static void main(String[] args) {
-        String words[] = {"the", "a", "there", "their", "any"};
+        String words[] = {"i", "like", "sam", "samsung", "mobile","ice"};
 
         // Insert all words into the Trie
         for (int i = 0; i < words.length; i++) {
@@ -52,5 +66,9 @@ public class Insert {
 
         System.out.println("Words inserted into the Trie successfully!");
         System.out.println(search("any"));
+
+
+        String key  = "ilikesamsung";
+        System.out.println(wordBreak(key));
     }
 }
