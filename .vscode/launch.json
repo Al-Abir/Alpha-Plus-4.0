@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "BFS_DFS",
+            "request": "launch",
+            "mainClass": "Graph.BFS_DFS",
+            "projectName": "Alpha Plus 4.0_e91a0f57"
+        },
+        {
+            "type": "java",
             "name": "Insert",
             "request": "launch",
             "mainClass": "Trie.Insert",
