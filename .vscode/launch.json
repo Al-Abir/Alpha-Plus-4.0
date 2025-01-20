@@ -6,6 +6,41 @@
     "configurations": [
         {
             "type": "java",
+            "name": "NextGreater",
+            "request": "launch",
+            "mainClass": "Stack.NextGreater",
+            "projectName": "Alpha Plus 4.0_e91a0f57"
+        },
+        {
+            "type": "java",
+            "name": "StockSpan",
+            "request": "launch",
+            "mainClass": "Stack.StockSpan",
+            "projectName": "Alpha Plus 4.0_e91a0f57"
+        },
+        {
+            "type": "java",
+            "name": "Reverse_Stack",
+            "request": "launch",
+            "mainClass": "Stack.Reverse_Stack",
+            "projectName": "Alpha Plus 4.0_e91a0f57"
+        },
+        {
+            "type": "java",
+            "name": "Reverse",
+            "request": "launch",
+            "mainClass": "Stack.Reverse",
+            "projectName": "Alpha Plus 4.0_e91a0f57"
+        },
+        {
+            "type": "java",
+            "name": "Push_Bottom",
+            "request": "launch",
+            "mainClass": "Stack.Push_Bottom",
+            "projectName": "Alpha Plus 4.0_e91a0f57"
+        },
+        {
+            "type": "java",
             "name": "Linked",
             "request": "launch",
             "mainClass": "Stack.Linked",
