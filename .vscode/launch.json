@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Histogram",
+            "request": "launch",
+            "mainClass": "Stack.Histogram",
+            "projectName": "Alpha Plus 4.0_e91a0f57"
+        },
+        {
+            "type": "java",
+            "name": "Histrogram",
+            "request": "launch",
+            "mainClass": "Stack.Histrogram",
+            "projectName": "Alpha Plus 4.0_e91a0f57"
+        },
+        {
+            "type": "java",
+            "name": "Duplicate",
+            "request": "launch",
+            "mainClass": "Stack.Duplicate",
+            "projectName": "Alpha Plus 4.0_e91a0f57"
+        },
+        {
+            "type": "java",
+            "name": "Valid",
+            "request": "launch",
+            "mainClass": "Stack.Valid",
+            "projectName": "Alpha Plus 4.0_e91a0f57"
+        },
+        {
+            "type": "java",
             "name": "NextGreater",
             "request": "launch",
             "mainClass": "Stack.NextGreater",
