@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CycleDetection",
+            "request": "launch",
+            "mainClass": "Graph.CycleDetection",
+            "projectName": "Alpha Plus 4.0_e91a0f57"
+        },
+        {
+            "type": "java",
+            "name": "CycleDectation",
+            "request": "launch",
+            "mainClass": "Graph.CycleDectation",
+            "projectName": "Alpha Plus 4.0_e91a0f57"
+        },
+        {
+            "type": "java",
             "name": "Palindrome_Triangle",
             "request": "launch",
             "mainClass": "Pattern.Palindrome_Triangle",
