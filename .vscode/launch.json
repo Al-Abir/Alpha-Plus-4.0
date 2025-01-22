@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Topological",
+            "request": "launch",
+            "mainClass": "Graph.Topological",
+            "projectName": "Alpha Plus 4.0_e91a0f57"
+        },
+        {
+            "type": "java",
+            "name": "Cy_Driected",
+            "request": "launch",
+            "mainClass": "Graph.Cy_Driected",
+            "projectName": "Alpha Plus 4.0_e91a0f57"
+        },
+        {
+            "type": "java",
+            "name": "Bipartite",
+            "request": "launch",
+            "mainClass": "Graph.Bipartite",
+            "projectName": "Alpha Plus 4.0_e91a0f57"
+        },
+        {
+            "type": "java",
             "name": "CycleDetection",
             "request": "launch",
             "mainClass": "Graph.CycleDetection",
