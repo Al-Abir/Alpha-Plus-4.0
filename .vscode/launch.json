@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Linked",
+            "request": "launch",
+            "mainClass": "Queue.Linked",
+            "projectName": "Alpha Plus 4.0_e91a0f57"
+        },
+        {
+            "type": "java",
             "name": "Cerculer",
             "request": "launch",
             "mainClass": "Queue.Cerculer",
