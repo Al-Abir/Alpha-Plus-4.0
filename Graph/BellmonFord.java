@@ -1,6 +1,8 @@
 package Graph;
 
+import java.util.ArrayList;
 import java.util.Arrays;
+import java.util.List;
 
 public class BellmonFord {
 
@@ -51,3 +53,43 @@ public class BellmonFord {
       }
     }
 }
+
+
+/*
+        edges.add(new ArrayList<>(Arrays.asList(1, 3, 2))); 
+        edges = [
+                [1, 3, 2]
+               ];
+        edges.add(new ArrayList<>(Arrays.asList(4, 3, -1)));
+        edges.add(new ArrayList<>(Arrays.asList(2, 4, 1)));
+        edges.add(new ArrayList<>(Arrays.asList(1, 2, 1)));
+        edges.add(new ArrayList<>(Arrays.asList(0, 1, 5)));
+int[][] edges = new int[][] {
+    {1, 3, 2},
+    {4, 3, -1},
+    {2, 4, 1},
+    {1, 2, 1},
+    {0, 1, 5}
+};
+static class Edge {
+    int u, v, weight;
+
+    Edge(int u, int v, int weight) {
+        this.u = u;
+        this.v = v;
+        this.weight = weight;
+    }
+}
+List<Edge> edges = new ArrayList<>();
+  edges.add(new Edge(1, 3, 2));
+  edges.add(new Edge(4, 3, -1));
+
+  [
+    Edge(1, 3, 2),  // Edge from 1 to 3, weight 2
+    Edge(4, 3, -1), // Edge from 4 to 3, weight -1
+    Edge(2, 4, 1),  // Edge from 2 to 4, weight 1
+    Edge(1, 2, 1),  // Edge from 1 to 2, weight 1
+    Edge(0, 1, 5)   // Edge from 0 to 1, weight 5
+]
+
+*/

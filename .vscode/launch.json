@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Prims",
+            "request": "launch",
+            "mainClass": "Graph.Prims",
+            "projectName": "Alpha Plus 4.0_e91a0f57"
+        },
+        {
+            "type": "java",
             "name": "BellmonFord",
             "request": "launch",
             "mainClass": "Graph.BellmonFord",
