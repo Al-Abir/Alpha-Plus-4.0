@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Dijkstra",
+            "request": "launch",
+            "mainClass": "Graph.Dijkstra",
+            "projectName": "Alpha Plus 4.0_e91a0f57"
+        },
+        {
+            "type": "java",
             "name": "Topological_BFS",
             "request": "launch",
             "mainClass": "Graph.Topological_BFS",
