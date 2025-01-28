@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Cheapest",
+            "request": "launch",
+            "mainClass": "Graph.Cheapest",
+            "projectName": "Alpha Plus 4.0_e91a0f57"
+        },
+        {
+            "type": "java",
             "name": "Dijkstra",
             "request": "launch",
             "mainClass": "Graph.Dijkstra",
