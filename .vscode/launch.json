@@ -6,6 +6,41 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Kruskal",
+            "request": "launch",
+            "mainClass": "Graph.Kruskal",
+            "projectName": "Alpha Plus 4.0_e91a0f57"
+        },
+        {
+            "type": "java",
+            "name": "Kurskal",
+            "request": "launch",
+            "mainClass": "Graph.Kurskal",
+            "projectName": "Alpha Plus 4.0_e91a0f57"
+        },
+        {
+            "type": "java",
+            "name": "Disjoint",
+            "request": "launch",
+            "mainClass": "Graph.Disjoint",
+            "projectName": "Alpha Plus 4.0_e91a0f57"
+        },
+        {
+            "type": "java",
+            "name": "Disjoin",
+            "request": "launch",
+            "mainClass": "Graph.Disjoin",
+            "projectName": "Alpha Plus 4.0_e91a0f57"
+        },
+        {
+            "type": "java",
+            "name": "Flood_Fill",
+            "request": "launch",
+            "mainClass": "Graph.Flood_Fill",
+            "projectName": "Alpha Plus 4.0_e91a0f57"
+        },
+        {
+            "type": "java",
             "name": "Cheapest",
             "request": "launch",
             "mainClass": "Graph.Cheapest",
