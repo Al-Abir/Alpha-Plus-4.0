@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CountWays",
+            "request": "launch",
+            "mainClass": "DP.CountWays",
+            "projectName": "Alpha Plus 4.0_e91a0f57"
+        },
+        {
+            "type": "java",
             "name": "Kruskal",
             "request": "launch",
             "mainClass": "Graph.Kruskal",
