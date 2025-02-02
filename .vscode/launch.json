@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "KnapsackTabulation",
+            "request": "launch",
+            "mainClass": "DP.KnapsackTabulation",
+            "projectName": "Alpha Plus 4.0_e91a0f57"
+        },
+        {
+            "type": "java",
+            "name": "KnapsackMemoization",
+            "request": "launch",
+            "mainClass": "DP.KnapsackMemoization",
+            "projectName": "Alpha Plus 4.0_e91a0f57"
+        },
+        {
+            "type": "java",
+            "name": "Kanpsack_memoization",
+            "request": "launch",
+            "mainClass": "DP.Kanpsack_memoization",
+            "projectName": "Alpha Plus 4.0_e91a0f57"
+        },
+        {
+            "type": "java",
+            "name": "knapsack_recursion",
+            "request": "launch",
+            "mainClass": "DP.knapsack_recursion",
+            "projectName": "Alpha Plus 4.0_e91a0f57"
+        },
+        {
+            "type": "java",
             "name": "CountWays",
             "request": "launch",
             "mainClass": "DP.CountWays",
